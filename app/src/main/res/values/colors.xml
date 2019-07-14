@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="activityBackground">#EFEBE9</color>
+    <color name="black">#000000</color>
+    <color name="activityBackgroundDark">#BCAAA4</color>
+    <color name="standardColorBlue">#ca363fa4</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="editTextBG">#DADADA</color>
+    <color name="ColorBlue">#f30a1ac7</color>
+    <color name="ColorBlue1">#ec0abec7</color>
+    <color name="textColor">#6e6e6e</color>
+    <color name="Wheat">#5dff40</color>
+    <color name="back">#c10f97</color>
+    <color name="Wheat2">#ffcc40</color>
+    <color name="back2">#075056</color>
+    <color name="ColorBlue2">#0311ac</color>
+</resources>
